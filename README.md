@@ -241,3 +241,6 @@ This repository serves as the official landing page for imo. The software is dis
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of imo today!**
+
+---
+**Last updated:** 2026-09-11 18:10:30 UTC
