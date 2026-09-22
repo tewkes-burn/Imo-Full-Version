@@ -243,4 +243,4 @@ This repository serves as the official landing page for imo. The software is dis
 **Get the most recent version of imo today!**
 
 ---
-**Last updated:** 2026-09-21 23:00:26 UTC
+**Last updated:** 2026-09-22 03:23:06 UTC
